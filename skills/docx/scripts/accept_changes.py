@@ -3,6 +3,8 @@
 Requires LibreOffice (soffice) to be installed.
 """
 
+import utils.transport
+import utils.session
 import argparse
 import logging
 import shutil
